@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="11" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121602" started-at="2017-09-22T21:24:42Z" finished-at="2017-09-22T21:26:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121602" started-at="2017-09-22T21:24:42Z" finished-at="2017-09-22T21:26:44Z">
+      <class name="TestSuites.AddMember">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.AddMember@41294f8]" name="init" is-config="true" duration-ms="11" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.AddRemoveMember@6d07a63d]" name="init" is-config="true" duration-ms="2" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.CaptureScreenshot@573906eb]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.FriendAndFamilyList@479ceda0]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.HeadlessBrowser@20435c40]" name="init" is-config="true" duration-ms="8" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestSuites.HomePage@488d1cd7]" name="initialize" is-config="true" duration-ms="1" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.ICJQuickSearch@571c5681]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.LobbyLoginOnQPortfolio@38ba6ce3]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.Register@2d6c53fc]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.RemoveMember@d278d2b]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.VerifyElements@225129c]" name="init" is-config="true" duration-ms="3" started-at="2017-09-22T16:24:42Z" finished-at="2017-09-22T16:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestSuites.VerifyLogout@68dc098b]" name="init" is-config="true" duration-ms="4" started-at="2017-09-22T16:24:43Z" finished-at="2017-09-22T16:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.AddMember@41294f8]" name="endReport" is-config="true" duration-ms="275" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.AddRemoveMember@6d07a63d]" name="endReport" is-config="true" duration-ms="91" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.CaptureScreenshot@573906eb]" name="endReport" is-config="true" duration-ms="93" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.FriendAndFamilyList@479ceda0]" name="endReport" is-config="true" duration-ms="85" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.HeadlessBrowser@20435c40]" name="endReport" is-config="true" duration-ms="133" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestSuites.HomePage@488d1cd7]" name="teardown" is-config="true" duration-ms="78" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.ICJQuickSearch@571c5681]" name="endReport" is-config="true" duration-ms="110" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.LobbyLoginOnQPortfolio@38ba6ce3]" name="endReport" is-config="true" duration-ms="106" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.Register@2d6c53fc]" name="endReport" is-config="true" duration-ms="97" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.RemoveMember@d278d2b]" name="endReport" is-config="true" duration-ms="79" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.VerifyElements@225129c]" name="endReport" is-config="true" duration-ms="65" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestSuites.VerifyLogout@68dc098b]" name="endReport" is-config="true" duration-ms="77" started-at="2017-09-22T16:26:44Z" finished-at="2017-09-22T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- TestSuites.AddMember -->
+      <class name="TestSuites.ICJQuickSearch">
+        <test-method status="PASS" signature="icjApplicationLoginAndVerifyQuickSearch()[pri:0, instance:TestSuites.ICJQuickSearch@571c5681]" name="icjApplicationLoginAndVerifyQuickSearch" duration-ms="120242" started-at="2017-09-22T16:24:43Z" finished-at="2017-09-22T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- icjApplicationLoginAndVerifyQuickSearch -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestSuites.ICJQuickSearch@571c5681]" name="getResult" is-config="true" duration-ms="2" started-at="2017-09-22T16:26:43Z" finished-at="2017-09-22T16:26:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=icjApplicationLoginAndVerifyQuickSearch status=SUCCESS method=ICJQuickSearch.icjApplicationLoginAndVerifyQuickSearch()[pri:0, instance:TestSuites.ICJQuickSearch@571c5681] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- TestSuites.ICJQuickSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
